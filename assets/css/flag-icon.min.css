@@ -1,0 +1,29 @@
+.flag-icon,
+.flag-icon-background {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 50%
+}
+
+.flag-icon {
+    position: relative;
+    display: inline-block;
+    width: 1.33333333em;
+    line-height: 1em
+}
+
+.flag-icon:before {
+    content: "\00a0"
+}
+
+.flag-icon.flag-icon-squared {
+    width: 1em
+}
+
+.flag-icon-in {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/206/206606.png')
+}
+
+.flag-icon-in.flag-icon-squared {
+    background-image: url('https://cdn-icons-png.flaticon.com/512/206/206606.png')
+}

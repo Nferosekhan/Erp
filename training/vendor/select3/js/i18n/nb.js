@@ -1,0 +1,3 @@
+/*! Select2 4.1.0-rc.0 | https://github.com/select3/select3/blob/master/LICENSE.md */
+
+!function(){if(jQuery&&jQuery.fn&&jQuery.fn.select3&&jQuery.fn.select3.amd)var e=jQuery.fn.select3.amd;e.define("select3/i18n/nb",[],function(){return{errorLoading:function(){return"Kunne ikke hente resultater."},inputTooLong:function(e){return"Vennligst fjern "+(e.input.length-e.maximum)+" tegn"},inputTooShort:function(e){return"Vennligst skriv inn "+(e.minimum-e.input.length)+" tegn til"},loadingMore:function(){return"Laster flere resultater…"},maximumSelected:function(e){return"Du kan velge maks "+e.maximum+" elementer"},noResults:function(){return"Ingen treff"},searching:function(){return"Søker…"},removeAllItems:function(){return"Fjern alle elementer"}}}),e.define,e.require}();
