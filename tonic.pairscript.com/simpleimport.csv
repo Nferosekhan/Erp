@@ -1,0 +1,4 @@
+Item Name,Code Tags,category,subcategory,productimage,Unit,Sale Price Name,Sale Price,Intra Tax Name ,Intra Tax Rate ,Inter Tax Name ,Intra Tax Rate,Item Visibility
+Mug White,DG001,,,,PCS,Franchise PRICE,100,GST12,12,IGST12,12,PUBLIC
+Mug Color,,,,,,Franchise PRICE,100,GST12,12,IGST12,12,PUBLIC
+Mug,DG003,,,,,Franchise PRICE,100,GST12,12,IGST12,12,PRIVATE
